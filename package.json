@@ -1,0 +1,29 @@
+{
+  "name": "medictrl",
+  "version": "1.0.0",
+  "description": "A lightweight and flexible MediaPlayer control for HTML5 video and audio elements in TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HtetLinMaung/medictrl.git"
+  },
+  "keywords": [
+    "media",
+    "player",
+    "video",
+    "audio",
+    "html5",
+    "typescript"
+  ],
+  "author": "Htet Lin Maung <jsthtet96@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  },
+  "files": [
+    "lib/"
+  ]
+}
